@@ -1,0 +1,4 @@
+__pycache__/
+.env
+post_content.txt
+venv/
